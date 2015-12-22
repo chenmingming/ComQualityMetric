@@ -1,5 +1,5 @@
 # ComQualityMetric
-=================
+
 Authors: Mingming Chen (email: mileschen2008@gmail.com). Collaborator: Boleslaw K. Szymanski (email: szymab@rpi.edu).
 
 Library for calculating a bunch of widely used community quality metrics for both disjoint and overlapping community quality metrics.
