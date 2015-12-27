@@ -2,7 +2,7 @@
 
 Authors: Mingming Chen (email: mileschen2008@gmail.com). Collaborator: Boleslaw K. Szymanski (email: szymab@rpi.edu).
 
-Library for calculating a bunch of widely used community quality metrics for both disjoint and overlapping community quality metrics. Please refer to the ReadMe.pdf for how to run the code.
+Library for calculating a bunch of widely used community quality metrics for both disjoint and overlapping community quality metrics. Please refer to the ReadMe.pdf for how to run the code. Please kindly cite our papers when you publish your articles.
 
 Please email comments and suggestions to Mingming Chen via mileschen2008@gmail.com.
 
